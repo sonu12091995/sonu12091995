@@ -1,8 +1,6 @@
-# 👋 Hi there, I'm Sonu Sharma!
+👋 Hi, I'm Sonu Sharma!
 
-### 🧪  QA Engineer | Automation Tester 
-
-
+🧪  QA Engineer | Automation Tester 
 
 💼 **Current Role**:  
 ISTQB-Certified QA Engineer with 5+ years in Functional, Automation & API Testing
@@ -15,14 +13,9 @@ ISTQB-Certified QA Engineer with 5+ years in Functional, Automation & API Testin
 - 📊 Monitoring: DataDog 
 - 🧠 AI Tools: ChatGPT, GitHub Copilot
 
----
-
 📚 **Certifications**:
 - ISTQB Certified Tester
-
-
 ---
-
 🎯 **I’m Currently**:
 - 📖 Learning: Playwright, Advanced Test Design Patterns
 - 🔍 Exploring: API Security Testing & Performance Testing
