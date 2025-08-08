@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi there, I'm Sonu Sharma!
 
-<!--
-**sonu12091995/sonu12091995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧪  QA Engineer |  Automation TestER 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+💼 **Current Role**:  
+ISTQB-Certified QA Engineer with 5+ years in Functional, Automation & API Testing
+
+📌 **Tech Skills**:
+- 🚀 Tools: Selenium | Postman | Swagger | Maven | DataDog
+- 📡 API Automation: RestAssured |Rest API| 
+- ☁️ CI/CD: Jenkins | GitHub Actions
+- 💻 Languages: Java | SQL
+- 📊 Monitoring: DataDog 
+- 🧠 AI Tools: ChatGPT, GitHub Copilot
+
+---
+
+📚 **Certifications**:
+- ISTQB Certified Tester
+
+
+---
+
+🎯 **I’m Currently**:
+- 📖 Learning: Playwright, Advanced Test Design Patterns
+- 🔍 Exploring: API Security Testing & Performance Testing
+- 🤝 Collaborating on: Open source QA projects and mentoring
