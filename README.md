@@ -21,21 +21,40 @@ ISTQB-Certified QA Engineer with 5+ years in Functional, Automation & API Testin
 - 🔍 Exploring: API Security Testing & Performance Testing
 - 🤝 Collaborating on: Open source QA projects and mentoring
 
-- 📫 ## Connect with me
+## 📫 Connect with me:
+
 <p align="left">
+  <!-- GitHub -->
   <a href="https://github.com/sonu12091995" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/sonu-sharma-697baa238/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
+
+  <!-- Instagram -->
   <a href="https://www.instagram.com/schin_sharma_12?igsh=ZWRlbTA0eWthczM2&utm_source=qr" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="Instagram" width="40" height="40"/>
   </a>
+
+  <!-- Gmail -->
   <a href="mailto:sonu735700@gmail.com" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="30" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" height="40"/>
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/profile.php?id=100007258845309" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="40" height="40"/>
+  </a>
+
+  <!-- Phone -->
+  <a href="tel:+917357004394" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/597/597177.png" alt="Phone" width="40" height="40"/>
   </a>
 </p>
+
 
 
 ## 🛠️ Languages and Tools:
