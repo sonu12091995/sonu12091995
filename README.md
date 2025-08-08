@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Sonu Sharma!
 
-### 🧪  QA Engineer |  Automation TestER 
+### 🧪  QA Engineer | Automation Tester 
 
 
 
