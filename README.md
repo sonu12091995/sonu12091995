@@ -15,7 +15,6 @@ ISTQB-Certified QA Engineer with 5+ years in Functional, Automation & API Testin
 
 📚 **Certifications**:
 - ISTQB Certified Tester
-- 
 ---
 🎯 **I’m Currently**:
 - 📖 Learning: Playwright, Advanced Test Design Patterns
