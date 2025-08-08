@@ -27,3 +27,8 @@ ISTQB-Certified QA Engineer with 5+ years in Functional, Automation & API Testin
 - 📖 Learning: Playwright, Advanced Test Design Patterns
 - 🔍 Exploring: API Security Testing & Performance Testing
 - 🤝 Collaborating on: Open source QA projects and mentoring
+
+- 📫 **Let’s Connect**:
+- [LinkedIn](https://www.linkedin.com/in/sonu-sharma-697baa238/)
+- 📧 Email: `sonu12091995@gmail.com`
+  
