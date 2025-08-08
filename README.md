@@ -10,7 +10,7 @@ ISTQB-Certified QA Engineer with 5+ years in Functional, Automation & API Testin
 📌 **Tech Skills**:
 - 🚀 Tools: Selenium | Postman | Swagger | Maven | DataDog
 - 📡 API Automation: RestAssured |Rest API| 
-- ☁️ CI/CD: Jenkins | GitHub Actions
+- ☁️ CI/CD: GitLab| Jenkins | GitHub Actions| bitbucket|
 - 💻 Languages: Java | SQL
 - 📊 Monitoring: DataDog 
 - 🧠 AI Tools: ChatGPT, GitHub Copilot
