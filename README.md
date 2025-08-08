@@ -36,3 +36,39 @@ ISTQB-Certified QA Engineer with 5+ years in Functional, Automation & API Testin
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="30" width="40" />
   </a>
 </p>
+
+## 🛠️ Languages and Tools:
+
+<p align="left">
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  </a>
+  <a href="https://swagger.io/" target="_blank" rel="noreferrer">
+    <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-eki6d1hz.png" alt="Swagger" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/96310406?s=200&v=4" alt="GitHub Copilot" width="40" height="40"/>
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
+  </a>
+  <a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" alt="Datadog" width="40" height="40"/>
+  </a>
+  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" alt="Maven" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/workbench/" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/M/mysql-workbench-logo-DC5F5B2230-seeklogo.com.png" alt="MySQL Workbench" width="40" height="40"/>
+  </a>
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="Selenium" width="40" height="40"/>
+  </a>
+</p>
+
